@@ -8,7 +8,7 @@
 * [x] Login
 * [x] Listar meus QRCodes
 * [x] Criar meu QRCodes
-* [] Relatórios de visualizações  
+* [ ] Relatórios de visualizações  
 
 
 <img src="https://qrcodes-images.s3.sa-east-1.amazonaws.com/Print+1.png"  />
