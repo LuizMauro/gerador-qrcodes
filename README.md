@@ -17,3 +17,9 @@ Meus QRCodes
 
 Criar QRCode
 <img src="https://qrcodes-images.s3.sa-east-1.amazonaws.com/Print+2.png"  />
+
+# Tasks futuras
+
+* [ ] Refatorar criação de QRCodes
+* [ ] Identidade visual
+* [ ] Molduras personalizadas
