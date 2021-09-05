@@ -11,6 +11,9 @@
 * [ ] Relatórios de visualizações  
 
 # Preview da plataforma
+
+Meus QRCodes
 <img src="https://qrcodes-images.s3.sa-east-1.amazonaws.com/Print+1.png"  />
 
+Criar QRCode
 <img src="https://qrcodes-images.s3.sa-east-1.amazonaws.com/Print+2.png"  />
