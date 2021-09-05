@@ -10,7 +10,7 @@
 * [x] Criar meu QRCodes
 * [ ] Relatórios de visualizações  
 
-# Prints do sistema
+# Preview da plataforma
 <img src="https://qrcodes-images.s3.sa-east-1.amazonaws.com/Print+1.png"  />
 
 <img src="https://qrcodes-images.s3.sa-east-1.amazonaws.com/Print+2.png"  />
