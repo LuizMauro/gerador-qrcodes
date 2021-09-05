@@ -23,3 +23,4 @@ Criar QRCode
 * [ ] Refatorar criação de QRCodes
 * [ ] Identidade visual
 * [ ] Molduras personalizadas
+* [ ] Adquirir domínio próprio
