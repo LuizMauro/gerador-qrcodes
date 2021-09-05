@@ -1,4 +1,4 @@
-# Plataforma para criar seus qrcodes e fazer uma análise de visualizações
+# Plataforma para criação de QRCodes e análise de visualizações
 
 [https://qrctools-app.herokuapp.com/](https://qrctools-app.herokuapp.com/) (BETA)
 
