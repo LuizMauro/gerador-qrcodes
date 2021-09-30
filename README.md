@@ -8,7 +8,7 @@
 * [x] Login
 * [x] Listar meus QRCodes
 * [x] Criar meu QRCodes
-* [ ] Relatórios de visualizações  
+* [x] Relatórios de visualizações  
 
 # Preview da plataforma
 
@@ -23,4 +23,4 @@ Criar QRCode
 * [ ] Refatorar criação de QRCodes
 * [ ] Identidade visual
 * [ ] Molduras personalizadas
-* [ ] Adquirir domínio próprio
+* [ ] Adquirir domínio 
